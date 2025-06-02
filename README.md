@@ -3,5 +3,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jeon-Jinhyeok&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeon-Jinhyeok&layout=compact&theme=tokyonight)
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Jeon-Jinhyeok&style=flat&color=blue)
