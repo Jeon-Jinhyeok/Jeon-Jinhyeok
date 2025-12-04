@@ -1,4 +1,4 @@
-# Hi, I'm Jinhyuk Jeon ☁️  
+# Hi, I'm Jinhyeok Jeon ☁️  
 Cloud Engineer | Architecture | AI Infrastructure
 
 ## 🔍 What I'm Interested In
