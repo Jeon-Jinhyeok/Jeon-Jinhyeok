@@ -7,20 +7,20 @@ Cloud Engineer | Architecture | AI Infrastructure
 - **DevOps / MLOps**
 
 ## 🎓 Education
-- **Pusan National University (부산대학교)**  
-  B.S. in Computer Science & Engineering (정보컴퓨터공학부)  
+- **Pusan National University**  
+  B.S. in Computer Science & Engineering
   *Mar 2020 – Feb 2026*
 
 ## 💼 Experience
 
 ### 🏛 ETRI — Cloud-Based Software Research Lab
-**Cloud Infrastructure & Distributed Cloud Research Intern**
+**Cloud Infrastructure & Distributed Cloud Research Intern**<br>
 *Jan 2025 – Feb 2025*  
 - Research on Distributed Cloud
 - Contribute on Opensource Multi-Cloud Platform(Cloud-Barista)  
 
-### 🧪 Pusan National University — SELAB (Software Engineering Laboratory) 
-**Undergraduate Researcher (URP)**  
+### 🧪 Pusan National University — SELAB (Software Engineering Lab) 
+**Undergraduate Researcher**  
 *Mar 2024 – Dec 2025*  
 - Studied software architecture and cloud-native system design.
 - Research on Cloud Computing & MSA.
