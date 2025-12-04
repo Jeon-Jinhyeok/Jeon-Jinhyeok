@@ -51,11 +51,14 @@ Cloud Engineer | Architecture | AI Infrastructure
 ---
 
 ## 🎓 Certifications
-<div align="left">
-<img width="174" height="174" alt="aws-certified-solutions-architect-associate" 
-src="https://github.com/user-attachments/assets/1276e9b3-d7a3-4be8-ae73-570dcd0a72dd" />
 
-</div>
+<p align="left">
+  <a href="https://www.credly.com/badges/36a6a2fb-cb2e-45d4-b558-fd6de1bebc7b/public_url">
+    <img src="https://github.com/user-attachments/assets/74ad6436-5647-4005-a66b-bc1eecc1d879" width="180">
+  </a>
+</p>
+
+
 
 ---
 
