@@ -6,11 +6,6 @@ Cloud Engineer | Architecture | AI Infrastructure
 - **Architecture**
 - **DevOps / MLOps**
 
-## 🎓 Education
-- **Pusan National University**  
-  B.S. in Computer Science & Engineering
-  *Mar 2020 – Feb 2026*
-
 ## 💼 Experience
 
 ### 🏛 ETRI — Cloud-Based Software Research Lab
@@ -25,6 +20,16 @@ Cloud Engineer | Architecture | AI Infrastructure
 - Studied software architecture and cloud-native system design.
 - Research on Cloud Computing & MSA.
 - Published a first-author research paper on Multi-Cloud Architecture.
+
+---
+
+## 🎓 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/36a6a2fb-cb2e-45d4-b558-fd6de1bebc7b/public_url">
+    <img src="https://github.com/user-attachments/assets/74ad6436-5647-4005-a66b-bc1eecc1d879" width="180">
+  </a>
+</p>
 
 ---
 
@@ -49,15 +54,6 @@ Cloud Engineer | Architecture | AI Infrastructure
 `Python` • `Go` • `Java`
 
 ---
-
-## 🎓 Certifications
-
-<p align="left">
-  <a href="https://www.credly.com/badges/36a6a2fb-cb2e-45d4-b558-fd6de1bebc7b/public_url">
-    <img src="https://github.com/user-attachments/assets/74ad6436-5647-4005-a66b-bc1eecc1d879" width="180">
-  </a>
-</p>
-
 
 
 ---
