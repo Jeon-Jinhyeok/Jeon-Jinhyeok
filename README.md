@@ -6,28 +6,56 @@ Cloud Engineer | Architecture | AI Infrastructure
 - **Architecture**
 - **DevOps / MLOps**
 
+## 🎓 Education
+- **Pusan National University (부산대학교)**  
+  B.S. in Computer Science & Engineering (정보컴퓨터공학부)  
+  *Mar 2020 – Feb 2026*
+
+## 💼 Experience
+
+### 🏛 ETRI — Cloud-Based Software Research Lab
+**Cloud Infrastructure & Distributed Cloud Research Intern**
+*Jan 2025 – Feb 2025*  
+- Research on Distributed Cloud
+- Contribute on Opensource Multi-Cloud Platform(Cloud-Barista)  
+
+### 🧪 Pusan National University — SELAB (Software Engineering Laboratory) 
+**Undergraduate Researcher (URP)**  
+*Mar 2024 – Dec 2025*  
+- Studied software architecture and cloud-native system design.
+- Research on Cloud Computing & MSA.
+- Published a first-author research paper on Multi-Cloud Architecture.
+
+---
+
 ## 🛠 Skills
 
 ### ☁️ Cloud Platforms  
-`AWS` • `GCP` • `OpenStack` (Nova, Neutron, Cinder)
+`AWS` • `GCP` • `OpenStack`
 
-### 🚀 Kubernetes & Platform Engineering  
-`Kubernetes` • `Docker` • `Istio` • `Knative` • `KServe` • `Kubeflow`  
-`Helm` • `Kustomize` • `ArgoCD (Basic)`  
+### 🧭 Container & Orchestration
+`Kubernetes` • `Docker` • `Istio` • `Knative` 
 
-### 🔧 DevOps & System  
-`Linux` • `Nginx` • `Prometheus / Grafana`
-`Terraform` • `GitHub Actions` • `CI/CD Pipelines`  
+### 🔧 DevOps 
+`Terraform` • `Jenkins` • `ArgoCD`
 
-### 🧠 Software / AI Infra  
+### 🤖 MLOps/ML Platform Engineering
+`Kubeflow` • `MLflow`
+
+### 📈 Monitoring / Observability 
+`Prometheus` • `Grafana` • `Jaeger` • `Kiali` • `DCGM`
+
+### 🧠 Language 
 `Python` • `Go` • `Java`
-`Distributed Training` • `Federated Learning`  
+
+---
 
 ## 🎓 Certifications
 <div align="left">
-
 <img width="174" height="174" alt="aws-certified-solutions-architect-associate" 
 src="https://github.com/user-attachments/assets/1276e9b3-d7a3-4be8-ae73-570dcd0a72dd" />
 
 </div>
+
+---
 
